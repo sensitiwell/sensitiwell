@@ -6,14 +6,14 @@ Desenvolvedora web apaixonada por front-end e design, cursando Ciência da Compu
 
 ## Estatísticas do GitHub
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/sensitiwell">
     <img src="https://github-readme-stats.vercel.app/api?username=sensitiwell&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Estatísticas do GitHub">
   </a>
   <a href="https://github.com/sensitiwell">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sensitiwell&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub - streak">
   </a>
-</p>
+</div>
 
 ## Linguagens e Ferramentas
 
